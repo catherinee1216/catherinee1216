@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **catherinee1216/catherinee1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about UX Design, School, Drawing
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: no fun fact :( 
--->
+
